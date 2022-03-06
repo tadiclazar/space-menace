@@ -1,2 +1,2 @@
 # space-menace
-Space Shooter mini arcae game.
+Space Shooter mini arcade game.
